@@ -1,1 +1,2 @@
-# Telecom_Churns_predictions
+# Telecom Churns predictions
+## using RandomForest and XGBoost Classifier
